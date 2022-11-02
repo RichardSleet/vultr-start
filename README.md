@@ -35,4 +35,4 @@ reboot
 7. Start v2ray
 `systemctl start v2ray`
 
-8. CloudFare must use 80
+8. CloudFare must use 80 !
